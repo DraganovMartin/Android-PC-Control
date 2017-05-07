@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">PCControl</string>
+
+    <string-array name="commands">
+        <item>SLEEP</item>
+        <item>KILLPROCESS</item>
+        <item>GETPROCESSES</item>
+        <item>HELP</item>
+        <item>EXIT</item>
+        <item>CHECKCONN</item>
+        <item>STOPSER</item>
+        <item>FILE</item>
+        <item>FILELIST</item>
+        <item>OPEN</item>
+        <item>RESTART</item>
+        <item>SHUTDOWN</item>
+        <item>FILEDEL</item>
+    </string-array>
 </resources>
